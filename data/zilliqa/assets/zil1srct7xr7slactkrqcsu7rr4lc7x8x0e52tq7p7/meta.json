@@ -1,0 +1,16 @@
+{
+	"name": "zia zilliqa",
+	"symbol": "zia",
+	"web": "https://www.packageportal.com",
+	"supply": "100000000",
+	"links": {
+		"telegram": "https://t.me/ziazilliqa",
+		"twitter": "https://twitter.com/ziaziliqa"
+
+	},
+	"product": true,
+	"gen": {
+		"logo": "logo.png",
+		"score": 0
+	}
+}
